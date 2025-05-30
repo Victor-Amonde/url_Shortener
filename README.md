@@ -1,0 +1,1 @@
+A URL shortener website allows users to convert long web addresses into shorter, easy-to-share links. It takes a full URL and generates a unique, compact version that redirects to the original link when clicked. This is useful for sharing on social media, tracking link clicks, and simplifying URLs.
